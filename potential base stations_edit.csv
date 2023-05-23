@@ -1,0 +1,291 @@
+﻿Name,Latitude,Longitude,Type
+Acton,51.5024329,-0.281742,fire station
+Addington,51.3525455,-0.0253693,fire station
+Barking,51.5321042,0.1032876,fire station
+Barnet,51.6469946,-0.1858426,fire station
+Battersea,51.466772,-0.1695098,fire station
+Beckenham,51.4076586,-0.0334288,fire station
+Belsize,51.5454112,-0.1659082,fire station
+Bethnal Green,51.5286908,-0.0488381,fire station
+Bexley,51.4625938,0.1537688,fire station
+Biggin Hill,51.3140694,0.0341239,fire station
+Bow,51.5338303,-0.0266022,fire station
+Brixton,51.4637795,-0.1092369,fire station
+Bromley,51.4067418,0.0165016,fire station
+Chelsea,51.4864648,-0.1714008,fire station
+Chingford,51.6284753,-0.0059581,fire station
+Chiswick,51.4917672,-0.2635207,fire station
+Clapham,51.4640906,-0.1415365,fire station
+Clerkenwell,51.5231364,-0.1115217,fire station
+Croydon,51.3695383,-0.104952,fire station
+Dagenham,51.5587853,0.1570539,fire station
+Deptford,51.4850133,-0.0337326,fire station
+Dockhead,51.5006476,-0.0712207,fire station
+Dowgate,51.5096671,-0.0875861,fire station
+Downham,51.4335022,0.0111861,fire station
+Ealing,51.5112876,-0.3169384,fire station
+East Greenwich,51.4873502,0.0266793,fire station
+East Ham,51.5242269,0.057323,fire station
+Edmonton,51.627017,-0.0689132,fire station
+Eltham,51.4508205,0.0633516,fire station
+Enfield,51.6601155,-0.0513034,fire station
+Erith,51.4848359,0.1549291,fire station
+Euston,51.5265322,-0.1366103,fire station
+Feltham,51.4610267,-0.4136452,fire station
+Finchley,51.5978364,-0.1793771,fire station
+Forest Hill,51.4422914,-0.0446548,fire station
+Fulham,51.4748492,-0.2064386,fire station
+Greenwich,51.4742085,-0.0135332,fire station
+Hainault,51.6061491,0.1027589,fire station
+Hammersmith,51.4956174,-0.2242547,fire station
+Harold Hill,51.5982135,0.224169,fire station
+Harrow,51.5844749,-0.3585939,fire station
+Hayes,51.4958235,-0.4311965,fire station
+Heathrow,51.4793526,-0.4329609,fire station
+Hendon,51.5887194,-0.2283786,fire station
+Heston,51.4576932,-0.3306864,fire station
+Hillingdon,51.5268488,-0.4387171,fire station
+Holloway,51.5624368,-0.1174031,fire station
+Homerton,51.548137,-0.0482279,fire station
+Hornchurch,51.5645473,0.2201696,fire station
+Hornsey,51.5866852,-0.1276433,fire station
+Ilford,51.562347,0.0899382,fire station
+Islington,51.5340292,-0.1052483,fire station
+Kensington,51.4999151,-0.1960271,fire station
+Kentish Town,51.5569946,-0.1457171,fire station
+Kingsland,51.5401154,-0.0766153,fire station
+Kingston,51.4138105,-0.3006544,fire station
+Knightsbridge,51.4997777,-0.1615196,fire station
+Lambeth,51.4925355,-0.1215369,fire station
+Lambeth River,51.4925355,-0.1215369,fire station
+Lee Green,51.4561255,0.012794,fire station
+Lewisham,51.451638,-0.0168358,fire station
+Leyton,51.5630084,-0.0158874,fire station
+Leytonstone,51.560731,0.008567,fire station
+Mill Hill,51.6150912,-0.2434717,fire station
+Millwall,51.4980577,-0.0259217,fire station
+Mitcham,51.4024687,-0.1704997,fire station
+New Cross,51.4740452,-0.0474287,fire station
+New Malden,51.399452,-0.2443295,fire station
+Norbury,51.4071561,-0.1212236,fire station
+North Kensington,51.5226354,-0.2130468,fire station
+Northolt,51.5540601,-0.3601201,fire station
+Old Kent Road,51.4856881,-0.0707808,fire station
+Orpington,51.3700421,0.115663,fire station
+Paddington,51.5207008,-0.181137,fire station
+Park Royal,51.5364888,-0.2667526,fire station
+Peckham,51.4738692,-0.0779786,fire station
+Plaistow,51.5206827,0.0318764,fire station
+Plumstead,51.4871665,0.0908779,fire station
+Poplar,51.5108798,-0.0157058,fire station
+Purley,51.3322052,-0.1244768,fire station
+Richmond,51.4686848,-0.2786973,fire station
+Romford,51.5919262,0.1820161,fire station
+Ruislip,51.5823113,-0.4318809,fire station
+Shadwell,51.5108113,-0.052626,fire station
+Shoreditch,51.5260219,-0.0886877,fire station
+Sidcup,51.427203,0.0938502,fire station
+Silvertown,51.5023385,0.0261255,fire station
+Soho,51.512988,-0.1296011,fire station
+Southall,51.5110509,-0.374716,fire station
+Southgate,51.6287664,-0.1276211,fire station
+Southwark,51.5028261,-0.096466,fire station
+Stanmore,51.6036342,-0.2976485,fire station
+Stoke Newington,51.5621716,-0.0765412,fire station
+Stratford,51.5433581,0.011352,fire station
+Surbiton,51.392246,-0.2980157,fire station
+Sutton,51.3698298,-0.2107315,fire station
+Tooting,51.4381207,-0.1626161,fire station
+Tottenham,51.5930371,-0.0741508,fire station
+Twickenham,51.4356845,-0.3489168,fire station
+Wallington,51.3622521,-0.1476364,fire station
+Walthamstow,51.5896055,-0.0282657,fire station
+Wandsworth,51.4563104,-0.2037278,fire station
+Wembley,51.5517119,-0.3044898,fire station
+Wennington,51.5111262,0.2063758,fire station
+West Hampstead,51.5526101,-0.190027,fire station
+West Norwood,51.4369114,-0.1050727,fire station
+Westminster,51.4965762,-0.1348238,fire station
+Whitechapel,51.5151377,-0.0690679,fire station
+Willesden,51.5444316,-0.2365411,fire station
+Wimbledon,51.4153003,-0.1970306,fire station
+Woodford,51.6079511,0.0370549,fire station
+Woodside,51.386001,-0.0626833,fire station
+Woolwich,51.4921149,0.0576511,fire station
+Beckenham,51.408,-0.022,hospatial
+Beckenham Beacon,51.405,-0.033,hospatial
+Bethlem Royal Hospital,51.3809,-0.0306,hospatial
+Bloomsbury,51.5262,-0.1178,hospatial
+Bromley,51.407,0.021,hospatial
+Camberwell,51.4736,-0.0912,hospatial
+Central Middlesex Hospital,51.519,-0.1377,hospatial
+Charing Cross Hospital,51.4871,-0.2195,hospatial
+"Chelsea, London",51.4875,-0.1684,hospatial
+Chelsea and Westminster Hospital,51.484,-0.182,hospatial
+Chipping Barnet,51.6444,-0.1997,hospatial
+City of Westminster,51.51222222,-0.16333333,hospatial
+Coppetts Wood Hospital,51.602,-0.1539,hospatial
+Cromwell Hospital,51.4949,-0.1914,hospatial
+Croydon University Hospital,51.39,-0.11,hospatial
+Ealing Hospital,51.50694444,-0.34555556,hospatial
+"Edmonton, London",51.6154,-0.0708,hospatial
+England,51.5,-0.11666667,hospatial
+Evelina London Children's Hospital,51.49805556,-0.11833333,hospatial
+Fitzrovia,51.518,-0.136,hospatial
+Gray's Inn Road,51.52376,-0.11545,hospatial
+Great Ormond Street Hospital,51.5225,-0.1205,hospatial
+Grovelands Park,51.63277778,-0.11527778,hospatial
+Guy's Hospital,51.50333333,-0.08694444,hospatial
+Hammersmith,51.4928,-0.2229,hospatial
+Hammersmith Hospital,51.5163,-0.2369,hospatial
+Hampstead,51.5541,-0.1744,hospatial
+Harringay,51.5819,-0.0994,hospatial
+Havering,51.55,0.21666667,hospatial
+Highgate,51.5716,-0.1448,hospatial
+Homerton,51.55212,-0.04704,hospatial
+Homerton University Hospital,51.5504,-0.0483,hospatial
+Hospital of St John and St Elizabeth,51.53277778,-0.17416667,hospatial
+Isleworth,51.466,-0.336,hospatial
+King's College Hospital,51.468,-0.0938,hospatial
+King Edward VII's Hospital,51.52091667,-0.15041667,hospatial
+"King George Hospital, London",51.5805,0.112,hospatial
+Kingston Hospital,51.4145,-0.2816,hospatial
+Kingston upon Thames,51.4103,-0.2995,hospatial
+Lambeth,51.4903,-0.1193,hospatial
+Lambeth Hospital,51.4666,-0.1231,hospatial
+Lewisham,51.461,-0.005,hospatial
+Leytonstone,51.569,0.01,hospatial
+London,51.50722222,-0.1275,hospatial
+London Borough of Brent,51.56611111,-0.27388889,hospatial
+London Borough of Camden,51.53333333,-0.16666667,hospatial
+London Borough of Hammersmith and Fulham,51.5,-0.25,hospatial
+London Borough of Islington,51.53333333,-0.13333333,hospatial
+London Borough of Redbridge,51.56666667,0.08333333,hospatial
+London Borough of Tower Hamlets,51.51666667,-0.05,hospatial
+London Bridge Hospital,51.5064,-0.0859,hospatial
+Marylebone,51.5177,-0.147,hospatial
+Maudsley Hospital,51.46888889,-0.09111111,hospatial
+"Memorial Hospital, Woolwich",51.4689,0.0654,hospatial
+Mile End Hospital,51.5248,-0.04304,hospatial
+Mitcham,51.4009,-0.1517,hospatial
+Moorfields Eye Hospital,51.52722222,-0.09,hospatial
+Mount Vernon Hospital,51.6168,-0.4447,hospatial
+Muswell Hill,51.592,-0.143,hospatial
+National Hospital for Neurology and Neurosurgery,51.52222222,-0.12194444,hospatial
+Newham University Hospital,51.523,0.0361,hospatial
+Nightingale Hospital (Marylebone),51.5218,-0.1652,hospatial
+Northwick Park Hospital,51.576,-0.322,hospatial
+Orpington,51.3741,0.0986,hospatial
+Paddington,51.5172,-0.173,hospatial
+Park Royal,51.529088,-0.281267,hospatial
+Pimlico,51.4887,-0.1395,hospatial
+"Plaistow, Newham",51.5243,0.0245,hospatial
+Portland Hospital,51.5227,-0.1436,hospatial
+Priory Hospital,51.46265,-0.25204,hospatial
+Putney,51.4649,-0.2211,hospatial
+Queen's Hospital,51.5691,0.1789,hospatial
+Queen Charlotte's and Chelsea Hospital,51.5161,-0.2373,hospatial
+"Queen Elizabeth Hospital, London",51.4789,0.0511,hospatial
+"Queen Mary's Hospital, Roehampton",51.4553,-0.2422,hospatial
+"Queen Mary's Hospital, Sidcup",51.4189,0.1014,hospatial
+"Richmond, London",51.456,-0.301,hospatial
+Richmond Royal Hospital,51.46675,-0.30033333,hospatial
+Roehampton,51.451,-0.243,hospatial
+Romford,51.5768,0.1801,hospatial
+Royal Borough of Kensington and Chelsea,51.5,-0.19,hospatial
+Royal Brompton Hospital,51.4894,-0.1707,hospatial
+Royal Free Hospital,51.55305556,-0.16527778,hospatial
+Royal Hospital Chelsea,51.48638889,-0.15777778,hospatial
+Royal Hospital for Neuro-disability,51.4522,-0.2138,hospatial
+Royal London Hospital,51.518,-0.0588,hospatial
+Royal Marsden Hospital,51.4908,-0.1729,hospatial
+Royal National Orthopaedic Hospital,51.632,-0.305,hospatial
+"Royal National Throat, Nose and Ear Hospital",51.52916667,-0.11916667,hospatial
+Royal Orthopaedic Hospital,51.632,-0.305,hospatial
+Sidcup,51.4263,0.1024,hospatial
+"Smithfield, London",51.519,-0.102,hospatial
+South Kensington,51.4912,-0.1769,hospatial
+Southall,51.5121,-0.3779,hospatial
+"Southgate, London",51.6316,-0.1265,hospatial
+Southwark,51.4988,-0.0901,hospatial
+Springfield University Hospital,51.4385,-0.1766,hospatial
+"St. Anthony's Hospital, North Cheam",51.37963611,-0.22069167,hospatial
+St Ann's Hospital,51.5806,-0.0906,hospatial
+St Bartholomew's Hospital,51.5175,-0.1001,hospatial
+"St Bernard's Hospital, Hanwell",51.50644,-0.3516,hospatial
+St Charles' Hospital,51.5221,-0.2176,hospatial
+St George's Hospital,51.4267,-0.1757,hospatial
+"St George's Hospital, Havering",51.5468,0.2186,hospatial
+St Helier Hospital,51.3803,-0.1836,hospatial
+St John's Wood,51.5361,-0.1751,hospatial
+St Luke's Hospital for Lunatics,51.52555556,-0.08972222,hospatial
+"St Mary's Hospital, London",51.51722222,-0.17305556,hospatial
+"St Pancras, London",51.5262,-0.1178,hospatial
+St Pancras Hospital,51.53611111,-0.13222222,hospatial
+St Thomas' Hospital,51.4991,-0.11891,hospatial
+Stanmore,51.618,-0.314,hospatial
+Stockwell,51.4633,-0.1204,hospatial
+Teddington,51.424,-0.332,hospatial
+Teddington Memorial Hospital,51.42580556,-0.34094444,hospatial
+The Gordon Hospital,51.4922,-0.136,hospatial
+The London Clinic,51.52297222,-0.15027778,hospatial
+The Princess Grace Hospital,51.5225,-0.15305556,hospatial
+Thornton Heath,51.4002,-0.1086,hospatial
+Thorpe Coombe Hospital,51.5907,-0.0079,hospatial
+Tolworth,51.3839,-0.2807,hospatial
+Tolworth Hospital,51.3795,-0.2891,hospatial
+Tooting,51.428,-0.165,hospatial
+University College Hospital,51.52524167,-0.13439722,hospatial
+University College Hospital at Westmoreland Street,51.51968,-0.14973,hospatial
+University Hospital Lewisham,51.4533,-0.0172,hospatial
+Walthamstow,51.59,0,hospatial
+"Wellington Hospital, London",51.5325,-0.1726,hospatial
+West Middlesex University Hospital,51.4736,-0.3257,hospatial
+Western Eye Hospital,51.5208,-0.1635,hospatial
+Whipps Cross University Hospital,51.5779,0.002,hospatial
+Whitechapel,51.5165,-0.075,hospatial
+Whittington Hospital,51.5665,-0.1395,hospatial
+Wilson Hospital,51.3974,-0.1631,hospatial
+Woolwich,51.488,0.063,hospatial
+Enfield Police Station,51.655326,-0.08046,police station
+Chiswick Police Station,51.49196,-0.2584,police station
+Holloway Police Station,51.56205651,-0.116842134,police station
+Paddington Green Police Station,51.519775,-0.171728,police station
+Marlowe House,51.4337108,0.1018725,police station
+Notting Hill Police Station,51.508641,-0.2031631,police station
+Shepherds Bush Police Station,51.50663,-0.234,police station
+Acton Police Station,51.5085531,-0.2747836,police station
+Barking Learning Centre Pt Grnd And 1st Floor,51.5364,0.0798,police station
+Bethnal Green Police Station,51.527,0.055,police station
+Bexleyheath Police Station,51.453341,0.13822,police station
+Brixton Police Station,51.461279,-0.115615,police station
+Bromley Police Station,51.39957886,0.017202128,police station
+Charing Cross Police Station,51.509786, -0.124658,police station
+Chingford Police Station,51.63177243,-0.001366167,police station
+Colindale Police Station,51.59692304,-0.241607235,police station
+Croydon Police Station,51.3703065,-0.0961394,police station
+Dagenham Police Station,51.54532,0.16558,police station
+Edmonton Police Station,51.61359,-0.062553,police station
+Forest Gate Police Station,51.54689934,0.031029705,police station
+Harrow Police Station & Annexes,51.583015,-0.33782,police station
+Hayes Police Station,51.5489529,-0.4807649,police station
+Hounslow Police Station,51.4690822,-0.3646325,police station
+Ilford Police Station (New),51.56033295,0.080045106,police station
+Islington Police Station,51.5339555,-0.1108096,police station
+Kensington Police Station,51.49527224,-0.195723511,police station
+Kentish Town Police Station,51.5496,-0.142,police station
+Kingston Police Station,51.40833153,-0.307043088,police station
+Lavender Hill Police Station,51.464493,-0.16168343,police station
+Lewisham Police Station,51.46331315,-0.010189684,police station
+Mitcham Police Station,51.42149532,-0.16032315,police station
+Plumstead Police Station,51.4866081,0.0956663,police station
+Romford Police Station,51.58365,0.13706,police station
+Stoke Newington Police Station,51.557877,-0.074528,police station
+Sutton Police Station,51.36133246,-0.190890224,police station
+Tottenham Police Station,51.591241,-0.069708,police station
+Twickenham Police Station,51.4478352,-0.3290063,police station
+Walworth Police Station,51.4892003,-0.0968461,police station
+Wembley Police Station,51.5515,-0.3059,police station
+Wimbledon Police Station,51.42120864,-0.203580378,police station
+88 Church Street,51.523339,-0.17085,police station
+Royalty Studios,51.517358,-0.207977,police station
